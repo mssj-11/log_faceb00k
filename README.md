@@ -1,3 +1,7 @@
 # login faceb00k
 
-**[DEMO](https://log-face.netlify.app/)**
+**Preview**
+
+<p aling="center">
+    <img src="./img/preview.png" alt="">
+</p>
